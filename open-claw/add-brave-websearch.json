@@ -1,0 +1,10 @@
+  },
+  "tools": {
+    "web": {
+      "search": {
+        "enabled": true,
+        "provider": "brave",
+        "apiKey": "<your-api-key>"
+      }
+    }
+  },
