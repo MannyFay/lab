@@ -1,4 +1,5 @@
-// A very old one I've found ...from 2018
+// A very old one I've found ...from 2018 in my apprenticeship
+// (German "Ausbildung").
 // This was my very first C++ project :)
 
 #pragma once
